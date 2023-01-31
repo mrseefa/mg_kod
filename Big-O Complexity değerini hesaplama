@@ -1,0 +1,5 @@
+This is a program that provides basic functionality for managing a list of "Cicek" (flower) structures. 
+The user can add, edit, delete, show, or search for Cicek objects. 
+The information of each Cicek object consists of its name, count, temperature, and humidity. 
+The program uses a vector to store the list of Cicek objects and writes the information of the Ciceks to a text file when they are added. 
+The program has a menu-based interface that allows the user to select the desired operation.
